@@ -1,1 +1,1 @@
-ChocolateyWinSetup
+This is Chocolatey Windows setup. THe packages.config contains the list of softwares that is generally used.
